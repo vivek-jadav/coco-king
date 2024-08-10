@@ -1,0 +1,71 @@
+.bg-color{
+  background: linear-gradient(109.6deg, rgb(252, 255, 26) 34.9%, rgb(66, 240, 233) 82.5%);
+  .navi-support{
+    margin-left : 27%;
+  }
+  .nav-link.active {
+    border-radius: 24px;
+    background-color: black;
+    color: white;
+  }
+
+  .nav-link:hover{
+    background-color: rgba(95, 94, 94, 0.281);
+  }
+
+  .font-size{
+    font-size: 18px;
+  }
+}
+
+
+
+.img1 {
+  width: 100%;
+}
+
+.data-text{
+  font-size: 21px;
+  font-style: italic;
+}
+
+.data-text2{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+    border-radius: 27px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 30px;
+    text-align: justify;
+    margin: 0 80px;
+    border: none;
+    background: linear-gradient(109.6deg, rgba(179, 255, 3, 0.76) 34.9%, rgba(159, 253, 248, 0.863)  82.5%);
+  
+}
+
+
+.img-2{
+  width: 100%;
+  border-radius: 30px;
+  overflow: hidden;
+}
+
+.img-test{
+  width: 55%;
+  margin-left: 34%;
+}
+.img-test1{
+  width: 100%;
+}
+.img-test2{
+  margin-left: 41%;
+  width: 246px;}
+
+.test-img4{
+    transition: 1s ease;
+    }
+    
+    .test-img4 img:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+}

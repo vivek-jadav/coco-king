@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+@import "node_modules/bootstrap/dist/css/bootstrap.css";
+::-webkit-scrollbar {
+    width: 8px; /* width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+    background-color: #f1f1f1; /* color of the track */
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(109.6deg, rgb(255, 230, 109) 11.2%, rgb(87, 232, 107) 100.2%); /* color of the scrollbar thumb */
+    border-radius: 4px; /* roundness of the scrollbar thumb */
+}
+
+body{
+    overflow: hidden !important;
+}
+

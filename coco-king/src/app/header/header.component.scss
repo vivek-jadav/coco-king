@@ -1,0 +1,41 @@
+.bg-color{
+    background: rgb(252, 255, 26);
+    .navi-support{
+      margin-left : 27%;
+    }
+    .nav-link{
+      border-radius: 24px;
+    }
+    .nav-link.active {
+      border-radius: 24px;
+      background-color: black;
+      color: white;
+    }
+    .nav-link:hover{
+      background-color: rgba(95, 94, 94, 0.11);
+    }
+  
+  
+    .font-size{
+      font-size: 18px;
+    }
+  }
+  
+  .img1 {
+    width: 100%;
+    height: auto;
+  }
+  
+  .data-text{
+    font-size: 21px;
+    font-style: italic;
+  }
+  
+  .data-text2{
+      box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+      border-radius: 27px;
+  }
+  
+  .img-2{
+    width: 100%;
+  }
